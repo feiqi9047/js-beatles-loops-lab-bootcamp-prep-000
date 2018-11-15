@@ -10,11 +10,16 @@ function johnLennonFacts(array){
   var result = [];
   var i=0;
   while (i < array.length){
+<<<<<<< HEAD
     result.push (array[i] + '!!!')
+=======
+    result.push (array[i] + "!!!")
+>>>>>>> 344213a8b802b03db1214df8dff824e616bbab56
     i++;
   }
   return result;
 }
+<<<<<<< HEAD
 
 function iLoveTheBeatles(number) {
   var arr = [];
@@ -25,3 +30,5 @@ function iLoveTheBeatles(number) {
   return arr;
 }
 
+=======
+>>>>>>> 344213a8b802b03db1214df8dff824e616bbab56
